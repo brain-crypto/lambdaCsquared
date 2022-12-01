@@ -1,0 +1,59 @@
+.input {
+    background-color: lightblue;
+}
+
+.margin {
+    height: 50px;
+}
+
+.span6 {
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 0 3px lightblue;
+    border: 5px solid transparent;
+}
+
+.output {
+    background-color: lightgrey;
+}
+
+#pic {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+/* Container holding the image and the text */
+.frame {
+    width: 90%;
+    margin: auto;
+    background-color: white;
+    position: relative;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 0 3px lightgrey;
+    border: 5px solid transparent;
+}
+
+.top-left {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    font-size: 21px;
+    text-align: left;
+}
+
+#change {
+    display: none;
+}
+
+#instruction {
+    margin: 50px; 
+}
+
+.mutedLink {
+    text-decoration: none; 
+    color: grey;
+}
