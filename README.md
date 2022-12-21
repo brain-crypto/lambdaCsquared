@@ -8,7 +8,7 @@ This repo contains two programs and some discussions on how one can circumvent W
 Input: your text<br>
 Output: offline/result.jpg<br>
 ### website
-Open website/eng.html or website/cn.html in any browser<br>
+Open website/eng.html or website/cn.html in any browser or visit the [website](https://brain-crypto.github.io/lambdaCsquared/website/eng) hosted on Github pages.<br>
 
 ## Background
 It is well-known that social media in China are heavily censored. Violators could find their messages deleted, accounts suspended, or even jailed. In light of recent events, the need for a quick way around internet censorship is even more pressing, as China cracks down on dissidents of its zero-covid policy, Russia blocks Facebook and Instagram over anti-war messages, and the Mahsa Amini protest still rages in Iran. This repo aims to address a small part of that problem - automatic chat filters on WeChat. 
